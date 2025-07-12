@@ -1,4 +1,4 @@
 # laulibr
-satu dua 
-tuga empat 
-lima enam
+senin selasa
+rabu kamis
+jumat sabtu
